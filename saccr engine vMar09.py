@@ -15,7 +15,7 @@ file_name = 'base_data_saccr.csv'
 # Read base data
 df = pd.read_csv(file_location + file_name)
 
-
+  
 ####################################################################################################
 # PART 1: Cacl basic SACCR input
 """ 1. AssetType """
