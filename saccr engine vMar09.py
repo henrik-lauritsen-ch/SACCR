@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import saccr_lib as sl
 
-
+  
 ####################################################################################################
 # Set input file 'location' and 'name'
 file_location = '/Users/henriklauritsen/Documents/python/Saccr development/'
