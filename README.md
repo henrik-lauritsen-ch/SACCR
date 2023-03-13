@@ -7,7 +7,7 @@ The SACCR method is basically a combination of "sum-product" and a few "group by
 
 FX Hedge Sets are build for a specific combination of two currencies. As an examplpe for FX derivatives involving EUR and USD this can either be EURUSD or USDEUR (free choice). Now a financial institution may have a position in EURUSD where it buys EUR for USD and another position where it buys USD for EUR. 
   
-  1. First step: select EURUSD as Hedge set
+  1. First step: select EURUSD as Hedge set (or USDEUR if preferred)
 
   2. Second step: find delta of the forward positions. For the buy EUR, sell USD this is seen from a EURUSD point of view a "buy" i.e. delta would be 1.0. The Buy USD, Sell EUR is considered a "sell" seen from a EURUSD point of view, which means that the delta should be -1.0
 
